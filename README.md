@@ -23,6 +23,5 @@ Extended Video Player System
 
 Animation & Video Synchronization
 
-[![Gameplay Video]([https://img.youtube.com/vi/_UMsY6TIVSQ/0.jpg)](https://www.youtube.com/watch?v=_UMsY6TIVSQ](https://youtu.be/D7BEolNf88Q)https://youtu.be/D7BEolNf88Q)
-
+[![Gameplay Video](https://img.youtube.com/vi/D7BEolNf88Q/0.jpg)](https://youtu.be/D7BEolNf88Q)
 
